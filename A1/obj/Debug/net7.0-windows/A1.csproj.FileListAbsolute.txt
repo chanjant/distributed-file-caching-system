@@ -1,0 +1,164 @@
+C:\Users\Jant\Desktop\A1\A1\A1\bin\Debug\net7.0-windows\A1.exe
+C:\Users\Jant\Desktop\A1\A1\A1\bin\Debug\net7.0-windows\A1.deps.json
+C:\Users\Jant\Desktop\A1\A1\A1\bin\Debug\net7.0-windows\A1.runtimeconfig.json
+C:\Users\Jant\Desktop\A1\A1\A1\bin\Debug\net7.0-windows\A1.dll
+C:\Users\Jant\Desktop\A1\A1\A1\bin\Debug\net7.0-windows\A1.pdb
+C:\Users\Jant\Desktop\A1\A1\A1\obj\Debug\net7.0-windows\A1.csproj.AssemblyReference.cache
+C:\Users\Jant\Desktop\A1\A1\A1\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Jant\Desktop\A1\A1\A1\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Jant\Desktop\A1\A1\A1\obj\Debug\net7.0-windows\A1_MarkupCompile.cache
+C:\Users\Jant\Desktop\A1\A1\A1\obj\Debug\net7.0-windows\A1_MarkupCompile.lref
+C:\Users\Jant\Desktop\A1\A1\A1\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Jant\Desktop\A1\A1\A1\obj\Debug\net7.0-windows\A1.g.resources
+C:\Users\Jant\Desktop\A1\A1\A1\obj\Debug\net7.0-windows\A1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jant\Desktop\A1\A1\A1\obj\Debug\net7.0-windows\A1.AssemblyInfoInputs.cache
+C:\Users\Jant\Desktop\A1\A1\A1\obj\Debug\net7.0-windows\A1.AssemblyInfo.cs
+C:\Users\Jant\Desktop\A1\A1\A1\obj\Debug\net7.0-windows\A1.csproj.CoreCompileInputs.cache
+C:\Users\Jant\Desktop\A1\A1\A1\obj\Debug\net7.0-windows\A1.dll
+C:\Users\Jant\Desktop\A1\A1\A1\obj\Debug\net7.0-windows\refint\A1.dll
+C:\Users\Jant\Desktop\A1\A1\A1\obj\Debug\net7.0-windows\A1.pdb
+C:\Users\Jant\Desktop\A1\A1\A1\obj\Debug\net7.0-windows\A1.genruntimeconfig.cache
+C:\Users\Jant\Desktop\A1\A1\A1\obj\Debug\net7.0-windows\ref\A1.dll
+C:\Users\Jant\Desktop\A1\A1\A1\obj\Debug\net7.0-windows\GUI\Cache.g.cs
+C:\Users\Jant\Desktop\A1\A1\A1\obj\Debug\net7.0-windows\GUI\Client.g.cs
+C:\Users\Jant\Desktop\A1\A1\A1\obj\Debug\net7.0-windows\GUI\Server.g.cs
+C:\Users\Jant\Desktop\A1\A1\A1\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\Jant\Desktop\A1\A1\A1\obj\Debug\net7.0-windows\GUI\Cache.baml
+C:\Users\Jant\Desktop\A1\A1\A1\obj\Debug\net7.0-windows\GUI\Client.baml
+C:\Users\Jant\Desktop\A1\A1\A1\obj\Debug\net7.0-windows\GUI\Server.baml
+C:\Users\Jant\Desktop\A1\A1\A1\obj\Debug\net7.0-windows\A1.csproj.CopyComplete
+C:\Users\Jant\Desktop\A1 - Copy\A1\A1\bin\Debug\net7.0-windows\A1.exe
+C:\Users\Jant\Desktop\A1 - Copy\A1\A1\bin\Debug\net7.0-windows\A1.deps.json
+C:\Users\Jant\Desktop\A1 - Copy\A1\A1\bin\Debug\net7.0-windows\A1.runtimeconfig.json
+C:\Users\Jant\Desktop\A1 - Copy\A1\A1\bin\Debug\net7.0-windows\A1.dll
+C:\Users\Jant\Desktop\A1 - Copy\A1\A1\bin\Debug\net7.0-windows\A1.pdb
+C:\Users\Jant\Desktop\A1 - Copy\A1\A1\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\Jant\Desktop\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\A1.csproj.AssemblyReference.cache
+C:\Users\Jant\Desktop\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\GUI\Cache.g.cs
+C:\Users\Jant\Desktop\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\GUI\Client.g.cs
+C:\Users\Jant\Desktop\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\GUI\Server.g.cs
+C:\Users\Jant\Desktop\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Jant\Desktop\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Jant\Desktop\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\A1_MarkupCompile.cache
+C:\Users\Jant\Desktop\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\A1_MarkupCompile.lref
+C:\Users\Jant\Desktop\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\GUI\Cache.baml
+C:\Users\Jant\Desktop\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\GUI\Client.baml
+C:\Users\Jant\Desktop\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\GUI\Server.baml
+C:\Users\Jant\Desktop\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Jant\Desktop\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\A1.g.resources
+C:\Users\Jant\Desktop\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\A1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jant\Desktop\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\A1.AssemblyInfoInputs.cache
+C:\Users\Jant\Desktop\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\A1.AssemblyInfo.cs
+C:\Users\Jant\Desktop\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\A1.csproj.CoreCompileInputs.cache
+C:\Users\Jant\Desktop\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\A1.csproj.CopyComplete
+C:\Users\Jant\Desktop\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\A1.dll
+C:\Users\Jant\Desktop\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\refint\A1.dll
+C:\Users\Jant\Desktop\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\A1.pdb
+C:\Users\Jant\Desktop\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\A1.genruntimeconfig.cache
+C:\Users\Jant\Desktop\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\ref\A1.dll
+C:\Users\Jant\Desktop\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\A1.csproj.ResolveComReference.cache
+C:\Users\Jant\Desktop\A1 - Copy\A1\A1\bin\Debug\net7.0-windows\SixLabors.ImageSharp.dll
+D:\A1 - Copy\A1\A1\bin\Debug\net7.0-windows\A1.exe
+D:\A1 - Copy\A1\A1\bin\Debug\net7.0-windows\A1.deps.json
+D:\A1 - Copy\A1\A1\bin\Debug\net7.0-windows\A1.runtimeconfig.json
+D:\A1 - Copy\A1\A1\bin\Debug\net7.0-windows\A1.dll
+D:\A1 - Copy\A1\A1\bin\Debug\net7.0-windows\A1.pdb
+D:\A1 - Copy\A1\A1\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+D:\A1 - Copy\A1\A1\bin\Debug\net7.0-windows\SixLabors.ImageSharp.dll
+D:\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\A1.csproj.AssemblyReference.cache
+D:\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\A1.csproj.ResolveComReference.cache
+D:\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\GUI\Cache.g.cs
+D:\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\GUI\Client.g.cs
+D:\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\GUI\Server.g.cs
+D:\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\App.g.cs
+D:\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\A1_MarkupCompile.cache
+D:\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\A1_MarkupCompile.lref
+D:\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\GUI\Cache.baml
+D:\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\GUI\Client.baml
+D:\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\GUI\Server.baml
+D:\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\MainWindow.baml
+D:\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\A1.g.resources
+D:\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\A1.GeneratedMSBuildEditorConfig.editorconfig
+D:\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\A1.AssemblyInfoInputs.cache
+D:\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\A1.AssemblyInfo.cs
+D:\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\A1.csproj.CoreCompileInputs.cache
+D:\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\A1.csproj.CopyComplete
+D:\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\A1.dll
+D:\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\refint\A1.dll
+D:\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\A1.pdb
+D:\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\A1.genruntimeconfig.cache
+D:\A1 - Copy\A1\A1\obj\Debug\net7.0-windows\ref\A1.dll
+D:\A1\A1\A1\bin\Debug\net7.0-windows\A1.exe
+D:\A1\A1\A1\bin\Debug\net7.0-windows\A1.deps.json
+D:\A1\A1\A1\bin\Debug\net7.0-windows\A1.runtimeconfig.json
+D:\A1\A1\A1\bin\Debug\net7.0-windows\A1.dll
+D:\A1\A1\A1\bin\Debug\net7.0-windows\A1.pdb
+D:\A1\A1\A1\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+D:\A1\A1\A1\bin\Debug\net7.0-windows\SixLabors.ImageSharp.dll
+D:\A1\A1\A1\obj\Debug\net7.0-windows\A1.csproj.AssemblyReference.cache
+D:\A1\A1\A1\obj\Debug\net7.0-windows\A1.csproj.ResolveComReference.cache
+D:\A1\A1\A1\obj\Debug\net7.0-windows\GUI\Cache.g.cs
+D:\A1\A1\A1\obj\Debug\net7.0-windows\GUI\Client.g.cs
+D:\A1\A1\A1\obj\Debug\net7.0-windows\GUI\Server.g.cs
+D:\A1\A1\A1\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\A1\A1\A1\obj\Debug\net7.0-windows\App.g.cs
+D:\A1\A1\A1\obj\Debug\net7.0-windows\A1_MarkupCompile.cache
+D:\A1\A1\A1\obj\Debug\net7.0-windows\A1_MarkupCompile.lref
+D:\A1\A1\A1\obj\Debug\net7.0-windows\GUI\Cache.baml
+D:\A1\A1\A1\obj\Debug\net7.0-windows\GUI\Client.baml
+D:\A1\A1\A1\obj\Debug\net7.0-windows\GUI\Server.baml
+D:\A1\A1\A1\obj\Debug\net7.0-windows\MainWindow.baml
+D:\A1\A1\A1\obj\Debug\net7.0-windows\A1.g.resources
+D:\A1\A1\A1\obj\Debug\net7.0-windows\A1.GeneratedMSBuildEditorConfig.editorconfig
+D:\A1\A1\A1\obj\Debug\net7.0-windows\A1.AssemblyInfoInputs.cache
+D:\A1\A1\A1\obj\Debug\net7.0-windows\A1.AssemblyInfo.cs
+D:\A1\A1\A1\obj\Debug\net7.0-windows\A1.csproj.CoreCompileInputs.cache
+D:\A1\A1\A1\obj\Debug\net7.0-windows\A1.csproj.CopyComplete
+D:\A1\A1\A1\obj\Debug\net7.0-windows\A1.dll
+D:\A1\A1\A1\obj\Debug\net7.0-windows\refint\A1.dll
+D:\A1\A1\A1\obj\Debug\net7.0-windows\A1.pdb
+D:\A1\A1\A1\obj\Debug\net7.0-windows\A1.genruntimeconfig.cache
+D:\A1\A1\A1\obj\Debug\net7.0-windows\ref\A1.dll
+D:\A1\A1\bin\Debug\net7.0-windows\A1.exe
+D:\A1\A1\bin\Debug\net7.0-windows\A1.deps.json
+D:\A1\A1\bin\Debug\net7.0-windows\A1.runtimeconfig.json
+D:\A1\A1\bin\Debug\net7.0-windows\A1.dll
+D:\A1\A1\bin\Debug\net7.0-windows\A1.pdb
+D:\A1\A1\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+D:\A1\A1\obj\Debug\net7.0-windows\A1.csproj.AssemblyReference.cache
+D:\A1\A1\obj\Debug\net7.0-windows\A1.csproj.ResolveComReference.cache
+D:\A1\A1\obj\Debug\net7.0-windows\GUI\Cache.g.cs
+D:\A1\A1\obj\Debug\net7.0-windows\GUI\Client.g.cs
+D:\A1\A1\obj\Debug\net7.0-windows\GUI\Server.g.cs
+D:\A1\A1\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\A1\A1\obj\Debug\net7.0-windows\App.g.cs
+D:\A1\A1\obj\Debug\net7.0-windows\A1_MarkupCompile.cache
+D:\A1\A1\obj\Debug\net7.0-windows\A1_MarkupCompile.lref
+D:\A1\A1\obj\Debug\net7.0-windows\GUI\Cache.baml
+D:\A1\A1\obj\Debug\net7.0-windows\GUI\Client.baml
+D:\A1\A1\obj\Debug\net7.0-windows\GUI\Server.baml
+D:\A1\A1\obj\Debug\net7.0-windows\MainWindow.baml
+D:\A1\A1\obj\Debug\net7.0-windows\A1.g.resources
+D:\A1\A1\obj\Debug\net7.0-windows\A1.GeneratedMSBuildEditorConfig.editorconfig
+D:\A1\A1\obj\Debug\net7.0-windows\A1.AssemblyInfoInputs.cache
+D:\A1\A1\obj\Debug\net7.0-windows\A1.AssemblyInfo.cs
+D:\A1\A1\obj\Debug\net7.0-windows\A1.csproj.CoreCompileInputs.cache
+D:\A1\A1\obj\Debug\net7.0-windows\A1.csproj.CopyComplete
+D:\A1\A1\obj\Debug\net7.0-windows\A1.dll
+D:\A1\A1\obj\Debug\net7.0-windows\refint\A1.dll
+D:\A1\A1\obj\Debug\net7.0-windows\A1.pdb
+D:\A1\A1\obj\Debug\net7.0-windows\A1.genruntimeconfig.cache
+D:\A1\A1\obj\Debug\net7.0-windows\ref\A1.dll
+D:\711\A1\A1\obj\Debug\net7.0-windows\A1.csproj.AssemblyReference.cache
+D:\711\A1\A1\obj\Debug\net7.0-windows\A1.csproj.ResolveComReference.cache
+D:\711\A1\A1\obj\Debug\net7.0-windows\GUI\Cache.g.cs
+D:\711\A1\A1\obj\Debug\net7.0-windows\GUI\Client.g.cs
+D:\711\A1\A1\obj\Debug\net7.0-windows\GUI\Server.g.cs
+D:\711\A1\A1\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\711\A1\A1\obj\Debug\net7.0-windows\App.g.cs
+D:\711\A1\A1\obj\Debug\net7.0-windows\A1_MarkupCompile.cache
+D:\711\A1\A1\obj\Debug\net7.0-windows\A1_MarkupCompile.lref
+D:\711\A1\A1\obj\Debug\net7.0-windows\A1.dll
+D:\711\A1\A1\obj\Debug\net7.0-windows\refint\A1.dll
+D:\711\A1\A1\obj\Debug\net7.0-windows\A1.pdb

@@ -1,0 +1,72 @@
+﻿<Window x:Class="A1.GUI.Client"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:A1"
+        mc:Ignorable="d"
+        Title="Client" Height="600" Width="800"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize">
+    <Grid Width="700">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <TextBlock
+            FontSize="30"
+            FontWeight="SemiBold"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center"
+            Text="File Download"/>
+        <Separator
+            VerticalAlignment="Bottom"/>
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="3*"/>
+                <RowDefinition Height="1*"/>
+            </Grid.RowDefinitions>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="2*"/>
+                </Grid.ColumnDefinitions>
+                <Grid>
+                    <ScrollViewer
+                          Margin="0.45"
+                          HorizontalScrollBarVisibility="Disabled"
+                          VerticalScrollBarVisibility="Hidden">
+                        <ListBox x:Name="FileList"/>
+                    </ScrollViewer>
+                </Grid>
+                <Grid Grid.Column="1">
+                    <StackPanel VerticalAlignment="Center">
+                        <Image x:Name="DownloadedImage" HorizontalAlignment="Center"/>
+                        <TextBlock x:Name="ImageName" HorizontalAlignment="Center"/>
+                    </StackPanel>
+                </Grid>
+                
+            </Grid>
+            <Grid Grid.Row="1">
+                <Button
+                        Background="#FF80CD24"
+                        BorderThickness="0"
+                        Content="Download File"
+                        Foreground="White"
+                        FontSize="20"
+                        Height="30"
+                        Width="150"
+                        Margin="0,40,0,0"
+                        Click="DownloadButton_Click"
+                        VerticalAlignment="Top"
+                        HorizontalAlignment="Center">
+                    <Button.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="CornerRadius" Value="10"/>
+                        </Style>
+                    </Button.Resources>
+                </Button>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>
